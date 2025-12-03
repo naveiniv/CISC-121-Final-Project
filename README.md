@@ -51,14 +51,29 @@ https://github.com/user-attachments/assets/e6062c7a-c733-4532-94a9-4b644339534a
 
 
 ## Testing and Verification
+    Test One: Correct Input
+    Input: [primer, concealer]
+    Correct Output: [primer, cocnealer]
+    
+    ![FB327F3D-06A4-4825-8BFF-02CACA3D80BD_1_102_o](https://github.com/user-attachments/assets/31615520-f686-4f91-9c61-68ae442685ad)
+
 
 ## Steps to Run
+    1. Clone the repository and navigate into it:
+    https://github.com/naveiniv/CISC-121-Final-Project.git
+    cd CISC-121-Final-Projec
+    2. Install dependencies:
+    pip install -r requirements.txt
+    3. Run the app
+    python app.py
+    4. Select at least two products and press the "Start Sorting" button
+             
 
 
 ## Hugging Face Link
     https://huggingface.co/spaces/naveini/makeup-classifcation
 
 
-
-
 ## Author & Acknowledgment
+Author: Naveini Vasikaran
+Ackowledgment: This acknowledgment are towards resources provided to me from CISC121.
