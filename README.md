@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/e6062c7a-c733-4532-94a9-4b644339534a
     Input: [primer, concealer]
     Correct Output: [primer, cocnealer]
     
-    ![FB327F3D-06A4-4825-8BFF-02CACA3D80BD_1_102_o](https://github.com/user-attachments/assets/31615520-f686-4f91-9c61-68ae442685ad)
+(https://github.com/user-attachments/assets/0da531b8-4c94-44d1-ab1c-c3a07fd7a82f)
 
 
 ## Steps to Run
