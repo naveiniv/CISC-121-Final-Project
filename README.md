@@ -51,9 +51,12 @@ https://github.com/user-attachments/assets/e6062c7a-c733-4532-94a9-4b644339534a
 
 
 ## Testing and Verification
-    Test One: Correct Input
-    Input: [primer, concealer]
-    Correct Output: [primer, cocnealer]
+  ##Test One: Correct Input
+            Input: [primer, concealer]
+            Correct Output: [primer, cocnealer]
+
+  ##Test Two: Reverse List
+  
     
 https://github.com/user-attachments/assets/f9cbcf09-8c1d-4f22-bc2e-ae4dfb0d8ce3
 
