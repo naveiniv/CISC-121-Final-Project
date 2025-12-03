@@ -64,8 +64,9 @@ https://github.com/user-attachments/assets/f9cbcf09-8c1d-4f22-bc2e-ae4dfb0d8ce3
               Output: ["face wash", "serum", "moisturizer", "primer", "concealer", "foundation", "blush", 
               "setting-powder", "loose-powder", "eyeshadow", "eyeliner", "glitter", "eye-lash curler",
               "mascara", "brow gel", "setting-spray"]
+              *The video is sped up
   
-  https://github.com/naveiniv/CISC-121-Final-Project/issues/3#issue-3691399511
+https://github.com/naveiniv/CISC-121-Final-Project/issues/4#issue-3691438350
 
 
   
