@@ -58,8 +58,13 @@ https://github.com/user-attachments/assets/e6062c7a-c733-4532-94a9-4b644339534a
 https://github.com/user-attachments/assets/f9cbcf09-8c1d-4f22-bc2e-ae4dfb0d8ce3
 
   ## Test Two: Reverse List
-              Input:  ["setting-spray", "brow gel", "mascara", "eye-lash curler", "glitter", "eyeliner", "eyeshadow", "loose-powder","setting-powder", "blush", "foundation", "concealer", "primer", "moisturizer", "serum", "face wash"]
-              Output: ["face wash", "serum", "moisturizer", "primer", "concealer", "foundation", "blush", "setting-powder", "loose-powder", "eyeshadow", "eyeliner", "glitter", "eye-lash curler", "mascara", "brow gel", "setting-spray"]
+              Input:  ["setting-spray", "brow gel", "mascara", "eye-lash curler", "glitter",
+              "eyeliner", "eyeshadow", "loose-powder","setting-powder", "blush", "foundation",
+              "concealer", "primer", "moisturizer", "serum", "face wash"]
+              Output: ["face wash", "serum", "moisturizer", "primer", "concealer", "foundation", "blush", 
+              "setting-powder", "loose-powder", "eyeshadow", "eyeliner", "glitter", "eye-lash curler",
+              "mascara", "brow gel", "setting-spray"]
+              
 https://github.com/naveiniv/CISC-121-Final-Project/issues/3#issue-3691399511
 
 
