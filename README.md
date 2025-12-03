@@ -66,10 +66,9 @@ https://github.com/user-attachments/assets/f9cbcf09-8c1d-4f22-bc2e-ae4dfb0d8ce3
               "mascara", "brow gel", "setting-spray"]
               *The video is sped up
   
-https://github.com/naveiniv/CISC-121-Final-Project/issues/4#issue-3691438350
+https://github.com/user-attachments/assets/7692388d-36ad-4f82-b6d6-f219586dff08
 
 
-  
 
 
 
