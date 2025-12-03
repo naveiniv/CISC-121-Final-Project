@@ -69,7 +69,12 @@ https://github.com/user-attachments/assets/f9cbcf09-8c1d-4f22-bc2e-ae4dfb0d8ce3
 https://github.com/user-attachments/assets/7692388d-36ad-4f82-b6d6-f219586dff08
 
 
+## Test Three: Random Test
+           Input: [brow gel, glitter, foundation, setting-spray, eyeliner, serum]        
+           Output: [serum, foundation, eyeliner, glitter, brow gel, setting spray]
 
+
+https://github.com/user-attachments/assets/bd7e82d4-1e2e-477f-bc92-8baf52faefba
 
 
 
